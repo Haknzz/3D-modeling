@@ -1,10 +1,10 @@
 # 3D modeling
 
-Skills e orientações para modelagem 3D, animações e visualização de modelos para jogos.
+Skills e orientações para modelagem 3D, animações e visualização para jogos, produtos, protótipos, demonstrações e apresentações.
 
 ## Versão para ChatGPT
 
-A **Modelagem 3D e Animações** orienta a criação de personagens, veículos e objetos, a correção dos movimentos e a revisão em uma prévia antes da integração no jogo.
+A **Modelagem 3D e Animações** orienta a criação de personagens, veículos e objetos, a correção dos movimentos e a revisão em uma prévia conforme o objetivo de cada usuário.
 
 - **[chatgpt.md — finalidade, instalação e exemplos de uso](chatgpt.md)**
 - [chatgpt/SKILL.md — instruções da skill](chatgpt/SKILL.md)

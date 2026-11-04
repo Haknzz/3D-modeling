@@ -1,11 +1,11 @@
 ---
 name: modelar-visualizar-3d
-description: Criar e refinar modelos 3D de personagens, veículos e objetos para jogos, animar ações e apresentar prévias interativas antes da integração. Usar para pedidos de modelagem com foto de referência, rig e retargeting Mixamo, animações de combate ou logística, correção de movimentos rígidos, contatos de mãos e pés, saltos, carga e descarga e inspeção visual de modelos. Não usar para substituir modelos 3D por imagens conceituais ou para integrar no jogo sem solicitação.
+description: Criar e refinar modelos 3D de personagens, veículos e objetos para jogos, produtos, protótipos, demonstrações e apresentações, animar ações e apresentar prévias interativas antes da integração. Usar para pedidos de modelagem com foto de referência, rig e retargeting Mixamo, animações de combate ou logística, correção de movimentos rígidos, contatos de mãos e pés, saltos, carga e descarga e inspeção visual de modelos. Não usar para substituir modelos 3D por imagens conceituais ou para integrar no jogo sem solicitação.
 ---
 
 # Modelagem 3D e animações
 
-Produzir geometria tridimensional e movimento inspecionável. Responder em português quando o usuário escrever em português. Trabalhar com o modelo existente quando houver; preservar as partes aprovadas e aplicar a mudança solicitada.
+Produzir geometria tridimensional e movimento inspecionável conforme o objetivo do usuário. Adaptar tema, estilo, complexidade, animações e formato de entrega a cada pedido; não fixar contexto militar ou um projeto específico. Responder em português quando o usuário escrever em português. Trabalhar com o modelo existente quando houver; preservar as partes aprovadas e aplicar a mudança solicitada.
 
 ## Delimitar a entrega
 
@@ -21,7 +21,7 @@ Produzir geometria tridimensional e movimento inspecionável. Responder em portu
 2. Normalizar o espaço de trabalho em metros e registrar a conversão aplicada. Preservar inversas de bind e offsets dos filhos; evitar misturar centímetros do FBX com metros dos acessórios.
 3. Separar peças rígidas articuladas: rodas, direção, esteiras, torre, tampa, lona, carga e armas. Definir pivôs nos eixos mecânicos reais.
 4. Para personagens, manter uma malha contínua e rig deformável, com pesos normalizados e mãos articuladas. Preferir um rig humano existente a membros soltos construídos com blocos.
-5. Modelar detalhes que alterem a leitura: bordas, costuras, bolsas, ferragens, sulcos, faróis, vidros, molas e interiores visíveis. Reutilizar malhas idênticas e manter resolução adequada à câmera do jogo.
+5. Modelar detalhes que alterem a leitura: bordas, costuras, bolsas, ferragens, sulcos, faróis, vidros, molas e interiores visíveis. Reutilizar malhas idênticas e manter resolução adequada à câmera e ao uso final.
 
 ## Construir as animações
 

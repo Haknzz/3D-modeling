@@ -17,7 +17,7 @@ Posicionar a mão no punho e orientar palma e dedos pela superfície e alça do 
 - Iniciar um giro com olhar e tronco e completá-lo com passos. Preservar a posição de apoio durante a rotação; não girar os dois pés deslizando ao mesmo tempo.
 - Não usar uma sequência de agachamentos como substituto de caminhar com peso.
 
-## Saltar de uma carroceria
+## Saltar de uma superfície elevada
 
 1. Aproximar o corpo da borda sem atravessar tampa, lona ou chassi.
 2. Antecipar com transferência de peso, joelhos flexionados e braços preparados. Ligar a posição final da antecipação à primeira pose da fase aérea sem saltos de pelve ou mãos.
@@ -28,11 +28,11 @@ Posicionar a mão no punho e orientar palma e dedos pela superfície e alça do 
 
 ## Carregar e descarregar caixas
 
-Planejar o local inicial, a área de trabalho e o apoio final de cada caixa. Evitar interseção com as outras caixas e com o caminhão. Fazer o soldado alcançar a caixa, estabelecer a pegada, transferir o peso e só então levantar. Manter a carga próxima ao corpo durante o transporte e orientar os passos para o destino.
+Planejar o local inicial, a área de trabalho e o apoio final de cada caixa. Evitar interseção com as outras caixas e com o caminhão. Fazer o personagem alcançar a caixa, estabelecer a pegada, transferir o peso e só então levantar. Manter a carga próxima ao corpo durante o transporte e orientar os passos para o destino.
 
 Na entrega, apoiar primeiro a caixa no chão ou no piso real da carroceria, liberar os dedos e recuar as mãos depois. Conferir a altura da superfície pela geometria efetiva, e não por um número herdado de uma plataforma removida.
 
-Separar abrir lona, abrir tampa e transferir carga. Se o soldado fechar a lona do chão, modelar uma fita/corda ou mecanismo alcançável e animar a pegada correspondente. Não fazer braços alcançarem um ponto fisicamente fora do alcance.
+Separar abrir lona, abrir tampa e transferir carga. Se o personagem fechar a lona do chão, modelar uma fita/corda ou mecanismo alcançável e animar a pegada correspondente. Não fazer braços alcançarem um ponto fisicamente fora do alcance.
 
 ## Veículos e efeitos
 
