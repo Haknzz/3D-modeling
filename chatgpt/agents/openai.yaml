@@ -1,0 +1,14 @@
+interface:
+  display_name: Modelagem 3D e Animações
+  short_description: Modelos 3D detalhados e animações com prévia interativa
+  default_prompt: Use $modelar-visualizar-3d para criar ou refinar meu modelo 3D e
+    mostrar as animações antes de integrar ao jogo.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
